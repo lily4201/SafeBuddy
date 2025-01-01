@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCy46e0p0-2nqFtpxGoSAzlLP_A_7UIsd4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>399312387290</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.safebuddy</string>
+	<key>PROJECT_ID</key>
+	<string>safebuddy-27604</string>
+	<key>STORAGE_BUCKET</key>
+	<string>safebuddy-27604.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:399312387290:ios:cd5ff5cccf7f16db7fb9e3</string>
+</dict>
+</plist>
